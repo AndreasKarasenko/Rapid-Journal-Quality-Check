@@ -7,7 +7,8 @@
     </a>
 </p>
 
-<b> This is a Chrome extension to display SJR along with the H-Index and CCF score next to Google Scholar search results. </b>
+<b> This is a Firefox port of the Chrome extension by [Dr.Wichmann](https://de.linkedin.com/in/julianwichmann) to display SJR along with the H-Index and CCF score next to Google Scholar search results. </b>
+For the original post see [here](https://de.linkedin.com/posts/julianwichmann_google-scholar-extension-activity-6967463018607611904-nsbm)
 
 </p> Based on and adapted from CCFrank by WenyanLiu: https://github.com/WenyanLiu/CCFrank4dblp
 </br> Using the public Crossref API: https://api.crossref.org/swagger-ui/index.html
@@ -42,41 +43,16 @@ Journal rankings are directly added to Google Search results.
 
 ## Install
 
-<b>I. Directly install from the Chrome Store --> coming soon </b>
+<b> Coming soon </b>
 
-	1. Find the RapidJournalQualCheck extension in [Chrome Web Store](https://chrome.google.com/webstore/)
-
-	2. Click the `Add to Browser` button.
-
-	3. RapidJournalQualCheck needs to read and change dblp, Google Scholar. To approve, click `Add extension`.
-
-OR
-
-<b>II. Load Unpacked</b>
-
-	1. Clone RapidJournalQualCheck to a directory.
-
-	2. Open the Extension Management page by navigating to `chrome://extensions`.
- 	   - The Extension Management page can also be opened by clicking on the Chrome menu, hovering over **More Tools** then
-  	    selecting **Extensions**.
-
-	3. Enable Developer Mode by clicking the toggle switch next to **Developer mode**.
-
-	4. Click the **LOAD UNPACKED** button in the top left corner and select the directory holding RapidJournalQualCheck.
 
 ## What's New
-
-**Version 2.0.1**
-
-> Significantly improved layout and performance. Results are displayed more rapidly and concisely now. 
-> VHB ranking was added for a more fine-grained evaluation of sources. 
-> Clicking on an individual ranking score now takes you to the work via doi.org that crossref identified based on the input from Google Scholar. Along with the reported journal in the mouseover infobox, this allows you to check, whether crossref identified the correct journal/work. In addition, it may help you find a similar work by the same author(s) published in a "more proper" outlet. 
 
 
 ## Contributors ✨
 
-This package is based on CCFrank by WenyanLiu: https://github.com/WenyanLiu/CCFrank4dblp
-Thanks goes to her and her contributors: https://github.com/WenyanLiu/CCFrank4dblp#contributors-
+This package is based on the Chrome extension by Dr. Julian R. K. Wichmann and in turn on CCFrank by WenyanLiu: https://github.com/WenyanLiu/CCFrank4dblp
+Thanks goes to them and their contributors: https://github.com/WenyanLiu/CCFrank4dblp#contributors-
 
 </p> Using the public Crossref API: https://api.crossref.org/swagger-ui/index.html
 </p> Using SCImago Journal & Country Rank (retrieved July 20th, 2022): http://www.scimagojr.com
