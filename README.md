@@ -52,7 +52,7 @@ You can temporarily install the addon under Firefox by visiting about:debugging#
 <br /><br />Next you have to navigate to the folder where you installed the repo to and select the "manifest.json" file.
 ![Adding Manifest](./img/add_manifest.png)
 
-<br /><br />Finally, in the top right corner you can navigate to the addon settings and set the permissions for the google scholar sites you're using (e.g. https://scholar.google.ch)
+<br /><br />Finally, in the top right corner you can navigate to the addon settings and set the permissions for the google scholar sites you're using (e.g. https://scholar.google.ch).
 ![Add permissions](./img/manage_addon.png)
 
 ## What's New
