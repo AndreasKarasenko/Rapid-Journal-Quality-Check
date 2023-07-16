@@ -47,7 +47,10 @@ Journal rankings are directly added to Google Search results.
 <b> Coming soon </b>
 First ensure that the whole repository exists on your local machine.
 You can temporarily install the addon under Firefox by visiting about:debugging#/runtime/this-firefox in your browser and clicking on "Load Temporary Add-on...".
-Next you have to navigate to the folder where you installed the repo to and select the "manifest.json" file.
+![Temporary Addon](./img/temporary_install.ong)
+
+<br /><br />Next you have to navigate to the folder where you installed the repo to and select the "manifest.json" file.
+![Adding Manifest](./img/add_manifest.png)
 
 
 ## What's New
