@@ -44,7 +44,8 @@ Journal rankings are directly added to Google Search results.
 
 ## Install
 
-<b> Coming soon </b>
+<b> Coming soon </b> <br/>
+<b> Workaround </b> <br/>
 First ensure that the whole repository exists on your local machine.
 You can temporarily install the addon under Firefox by visiting about:debugging#/runtime/this-firefox in your browser and clicking on "Load Temporary Add-on...".
 ![Temporary Addon](./img/temporary_install.png)
