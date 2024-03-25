@@ -57,6 +57,8 @@ You can temporarily install the addon under Firefox by visiting about:debugging#
 
 ![Add permissions](./img/manage_addon.png)
 
+<br /><br />You can also change which ratings are ticked by default by changing the respective values in the [background.js](./background.js) file.
+
 ## What's New
 
 
